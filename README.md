@@ -1,0 +1,1 @@
+# Platforma-Software-Simulare-Control-Automat
