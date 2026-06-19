@@ -1,0 +1,21 @@
+Data,Tip analiza,Tip sistem,Tip semnal,Mod control,Parametri,Indicator 1,Indicator 2,Indicator 3
+2026-06-16 03:28:14,Raspuns in timp,Sistem ordin II,Rampa,"Cu PID (Kp=2.0, Ki=1.0, Kd=0.2)","wn=5.0, zeta=7.0",Valoare finala iesire=8.99,Valoare maxima iesire=8.99,Eroare finala=1.01
+2026-06-16 03:28:27,Raspuns in timp,Sistem ordin II,Impuls,Fara PID,"wn=5.0, zeta=9.0",Valoare maxima=0.27,Valoare minima=0.00,Timp maxim=0.06s
+2026-06-16 03:28:39,Raspuns in timp,Sistem ordin I,Impuls,Fara PID,"K=2.0, T=1.0",Valoare maxima=2.00,Valoare minima=0.00,Timp maxim=0.00s
+2026-06-18 03:29:58,Raspuns in timp,Sistem ordin I,Treapta,Fara PID,"K=2.0, T=1.0",Valoare finala=2.00,Overshoot=0.00%,Timp stabilizare=3.91s
+2026-06-18 03:52:37,Raspuns in timp,Sistem ordin I,Treapta,Fara PID,"K=2.0, T=0.5",Valoare finala=2.00,Overshoot=0.00%,Timp stabilizare=1.96s
+2026-06-18 03:52:55,Raspuns in timp,Sistem ordin I,Treapta,Fara PID,"K=2.0, T=3.0",Valoare finala=1.93,Overshoot=0.00%,Timp stabilizare=8.71s
+2026-06-18 03:56:38,Raspuns in timp,Sistem ordin II,Treapta,Fara PID,"wn=3.0, zeta=0.4",Valoare finala=1.00,Overshoot=25.38%,Timp stabilizare=2.81s
+2026-06-18 03:58:28,Raspuns in timp,Sistem ordin II,Treapta,Fara PID,"wn=3.0, zeta=0.2",Valoare finala=1.00,Overshoot=52.43%,Timp stabilizare=6.60s
+2026-06-18 03:58:46,Raspuns in timp,Sistem ordin II,Treapta,Fara PID,"wn=3.0, zeta=0.8",Valoare finala=1.00,Overshoot=1.52%,Timp stabilizare=1.26s
+2026-06-18 04:01:56,Raspuns in timp,Comparare ordin II,Treapta,Fara PID,"wn=3.0, zeta1=0.3, zeta2=0.7",S1: Valoare finala=1.00 | S2: Valoare finala=1.00,S1: Overshoot=37.21% | S2: Overshoot=4.60%,S1: Timp stabilizare=3.74s | S2: Timp stabilizare=2.00s
+2026-06-18 04:02:17,Raspuns in timp,Comparare ordin II,Treapta,Fara PID,"wn=3.0, zeta1=0.9, zeta2=0.7",S1: Valoare finala=1.00 | S2: Valoare finala=1.00,S1: Overshoot=0.15% | S2: Overshoot=4.60%,S1: Timp stabilizare=1.57s | S2: Timp stabilizare=2.00s
+2026-06-18 04:27:50,Raspuns in timp,Sistem ordin II,Treapta,"Cu PID (Kp=2.0, Ki=1.0, Kd=0.5)","wn=3.0, zeta=0.3",Valoare finala=0.99,Overshoot=0.00%,Timp stabilizare=6.98s
+2026-06-18 04:28:06,Raspuns in timp,Sistem ordin II,Treapta,Fara PID,"wn=3.0, zeta=0.3",Valoare finala=1.00,Overshoot=37.21%,Timp stabilizare=3.74s
+2026-06-18 04:33:32,Raspuns in timp,Sistem ordin II,Treapta,"Cu PID (Kp=1.0, Ki=1.0, Kd=0.5)","wn=3.0, zeta=0.3",Valoare finala=1.00,Overshoot=0.00%,Timp stabilizare=5.68s
+2026-06-18 04:33:40,Raspuns in timp,Sistem ordin II,Treapta,"Cu PID (Kp=4.0, Ki=1.0, Kd=0.5)","wn=3.0, zeta=0.3",Valoare finala=0.97,Overshoot=7.91%,Timp stabilizare=7.29s
+2026-06-18 04:37:30,Raspuns in timp,Sistem ordin II,Treapta,"Cu PID (Kp=2.0, Ki=0.2, Kd=0.5)","wn=3.0, zeta=0.3",Valoare finala=0.83,Overshoot=3.33%,Timp stabilizare=8.65s
+2026-06-18 04:37:37,Raspuns in timp,Sistem ordin II,Treapta,"Cu PID (Kp=2.0, Ki=2.0, Kd=0.5)","wn=3.0, zeta=0.3",Valoare finala=1.00,Overshoot=0.00%,Timp stabilizare=3.86s
+2026-06-18 04:41:21,Raspuns in timp,Sistem ordin II,Treapta,"Cu PID (Kp=2.0, Ki=1.0, Kd=0.0)","wn=3.0, zeta=0.3",Valoare finala=0.99,Overshoot=18.04%,Timp stabilizare=6.64s
+2026-06-18 04:41:25,Raspuns in timp,Sistem ordin II,Treapta,"Cu PID (Kp=2.0, Ki=1.0, Kd=2.0)","wn=3.0, zeta=0.3",Valoare finala=0.99,Overshoot=0.00%,Timp stabilizare=7.10s
+2026-06-18 04:43:24,Diagrama Bode,Sistem ordin II,-,Fara PID,"wn=3.0, zeta=0.5",Magnitudine maxima=1.25 dB,Magnitudine minima=-20.54 dB,Faza minima=-161.75 grade
